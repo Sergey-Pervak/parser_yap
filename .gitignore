@@ -17,3 +17,7 @@ dmypy.json
 # .idea
 .idea
 .vscode
+
+downloads/
+logs/
+results/
