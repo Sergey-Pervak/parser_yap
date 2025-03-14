@@ -21,3 +21,5 @@ dmypy.json
 downloads/
 logs/
 results/
+
+http_cache.sqlite
